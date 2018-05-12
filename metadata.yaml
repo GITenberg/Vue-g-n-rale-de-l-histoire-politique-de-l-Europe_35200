@@ -1,0 +1,32 @@
+_repo: Vue-g-n-rale-de-l-histoire-politique-de-l-Europe_35200
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lavisse, Ernest
+    aliases:
+    - Lavis, Ernest
+    - Lavisse, E. (Ernest)
+    birthdate: 1842
+    deathdate: 1922
+    gutenberg_agent_id: '37524'
+    url: http://www.gutenberg.org/2009/agents/37524
+    wikipedia: http://fr.wikipedia.org/wiki/Ernest_Lavisse
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35200'
+  lccn: '91160119'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- History'
+title: Vue générale de l'histoire politique de l'Europe
+url: http://www.gutenberg.org/ebooks/35200
