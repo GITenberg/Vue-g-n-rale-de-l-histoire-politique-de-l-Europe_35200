@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37524
     wikipedia: http://fr.wikipedia.org/wiki/Ernest_Lavisse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35200#Vue-g-n-rale-de-l-histoire-politique-de-l-Europe
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2011-02-07'
 gutenberg_type: Text
